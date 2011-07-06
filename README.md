@@ -19,7 +19,7 @@ $ ./update-repositories.rb /Users/username/Projects/
 
 Example output:
 
-`
+```
 $ ./update-repositories.rb .
 # Checking given path.,,
 # [ SUCCESS ] .
@@ -83,4 +83,4 @@ Pulling: origin -> gitosis@git.myserver.com:wordpress-themes.git
 # Already up-to-date.
 
 # Do work son!
-`
+```
